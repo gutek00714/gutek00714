@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/c5b3290a-2468-4f5b-bd2b-5a454cc6fa9d/thumbnail" >
+  <a href="https://www.boot.dev/u/gutek00714">
+    <img src="https://api.boot.dev/v1/users/public/c5b3290a-2468-4f5b-bd2b-5a454cc6fa9d/thumbnail" >
+  </a>
 </p>
